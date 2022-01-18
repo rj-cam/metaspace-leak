@@ -3,7 +3,7 @@
 ## Update
 
 - Not reproducible in newer Spring Boot 2.4.13, 2.5.8 and 2.6.2
-- Not reproducible in older Spring Boot 2.1.1
+- Not reproducible in older Spring Boot 2.1.1, 2.2.10
 
 ![Spring Boot 2.4.13 image](https://user-images.githubusercontent.com/92868401/149891968-f14a0b34-86ad-4796-a4ec-bc7c5460105f.png)
 
